@@ -1,193 +1,105 @@
-<div align="center">
-
-# 👋 ¡Hola! Soy Andrés
-
-### ✨ Desarrollador apasionado | Creador de soluciones innovadoras
-
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2?style=for-the-badge)](https://tu-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/📧-Contacto-D14836?style=for-the-badge)](mailto:tu-email@example.com)
-[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge)](https://twitter.com/tu-usuario)
-
-![Banner](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80)
-
-</div>
-
----
-
-## 🚀 Sobre Mí
+<h1 align="center">👨‍💻 Jhonny Andre De La Torre Segura</h1>
+<h3 align="center">🎓 Estudiante de Ingeniería de Sistemas y Computación</h3>
 
 <p align="center">
-  <em>"Transformando ideas en código, y código en experiencias extraordinarias"</em>
+  <a href="https://github.com/Andre121314115">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:delatorreandre03@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Andre121314115?tab=repositories">
+    <img src="https://img.shields.io/badge/Portafolio-Proyectos-6e5494?style=for-the-badge&logo=github" alt="Portafolio">
+  </a>
 </p>
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras que impacten positivamente. Me encanta aprender nuevas tecnologías, colaborar en proyectos desafiantes y contribuir a la comunidad de desarrollo.
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>🎯 Mis Principios</strong><br>
-      • Código limpio y mantenible<br>
-      • Diseño centrado en el usuario<br>
-      • Mejora continua<br>
-      • Colaboración efectiva
-    </td>
-    <td align="center" width="50%">
-      <strong>🌈 Mi Filosofía</strong><br>
-      • Cada línea de código cuenta<br>
-      • Los detalles marcan la diferencia<br>
-      • Aprender enseñando<br>
-      • Innovar con propósito
-    </td>
-  </tr>
-</table>
+## 📌 Sobre Mí
+
+¡Hola! Soy estudiante de **Ingeniería de Sistemas y Computación** apasionado por el desarrollo de software y la tecnología. Me enfoco en crear soluciones innovadoras mientras perfecciono mis habilidades técnicas.
+
+**🔭 Actualmente:** Trabajando en proyectos académicos  
+**🌱 Aprendiendo:** Desarrollo Full-Stack y arquitectura de software  
+**🎯 Objetivo:** Crear aplicaciones escalables y eficientes  
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+### **Lenguajes de Programación**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
+</p>
 
-### 💻 Lenguajes & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Bases de Datos & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🎨 Diseño & Herramientas
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+### **Herramientas y Plataformas**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Redes-0066CC?style=flat&logo=cisco&logoColor=white" alt="Redes">
+</p>
 
 ---
 
-## ⭐ Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 🏆 Proyecto 1: [Nombre del Proyecto]
-[![Ver Proyecto](https://img.shields.io/badge/🔗-Ver_Proyecto-6A0DAD?style=for-the-badge&logo=github)](https://github.com/Andre121314115/proyecto-1)
-[![Demo](https://img.shields.io/badge/🚀-Live_Demo-00C853?style=for-the-badge)](https://demo-proyecto1.com)
+### **📰 Analizador de Noticias**
+> Aplicación web para análisis y clasificación de contenido noticioso
 
-📝 **Descripción:** Breve descripción impactante de tu primer proyecto importante. Explica qué problema resuelve y qué tecnologías utilizaste.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 
-✨ **Características principales:**
-- ✅ Funcionalidad innovadora 1
-- ✅ Arquitectura escalable
-- ✅ Interfaz intuitiva
-- ✅ Alto rendimiento
-
-🛠️ **Tecnologías:** `React` `Node.js` `MongoDB` `AWS`
+🔗 **[Ver Repositorio](https://github.com/Andre121314115/analizador-noticias)**
 
 ---
 
-### 🥈 Proyecto 2: [Nombre del Proyecto]
-[![Ver Proyecto](https://img.shields.io/badge/🔗-Ver_Proyecto-6A0DAD?style=for-the-badge&logo=github)](https://github.com/Andre121314115/proyecto-2)
-[![Demo](https://img.shields.io/badge/🚀-Live_Demo-00C853?style=for-the-badge)](https://demo-proyecto2.com)
+### **🍦 HeladeriaApp**
+> Aplicación móvil para gestión de heladerías
 
-📝 **Descripción:** Descripción concisa de tu segundo proyecto destacado. Menciona los desafíos superados y los aprendizajes obtenidos.
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
 
-🎯 **Logros:**
-- 🏅 Mejoró la eficiencia en un X%
-- 🏅 Reconocimiento en [evento/hackathon]
-- 🏅 +100 usuarios activos
-
-🛠️ **Tecnologías:** `Python` `Django` `PostgreSQL` `Docker`
+🔗 **[Ver Repositorio](https://github.com/Andre121314115/HeladeriaApp)**
 
 ---
 
-### 🥉 Proyecto 3: [Nombre del Proyecto]
-[![Ver Proyecto](https://img.shields.io/badge/🔗-Ver_Proyecto-6A0DAD?style=for-the-badge&logo=github)](https://github.com/Andre121314115/proyecto-3)
+### **🧠 DesinfoApp (Versiones 1.0 y 4.0)**
+> Suite de aplicaciones contra la desinformación
 
-📝 **Descripción:** Presentación de tu tercer proyecto importante. Destaca qué lo hace único y por qué estás orgulloso de él.
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 
-🌟 **Puntos clave:**
-- ⭐ Código 100% open-source
-- ⭐ Documentación completa
-- ⭐ Comunidad activa de contribuidores
+🔗 **Versión 1.0:** [Repositorio](https://github.com/Andre121314115/desinfoapp)  
+🔗 **Versión 4.0:** [Repositorio](https://github.com/Andre121314115/DesinfoAppV4.0)
 
-🛠️ **Tecnologías:** `TypeScript` `Next.js` `GraphQL` `Tailwind CSS`
+---
+
+### **🎈 Arcos Globos**
+> Plataforma móvil para servicios de decoración de eventos
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
+
+🔗 **[Ver Repositorio](https://github.com/Andre121314115/arcos_globos)**
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andre121314115&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre121314115&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andre121314115&theme=radical&hide_border=true&background=0D1117)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre121314115&show_icons=true&theme=default&hide_border=true&locale=es" alt="Estadísticas" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre121314115&layout=compact&theme=default&hide_border=true&locale=es" alt="Lenguajes" height="165">
+</p>
 
 ---
 
-## 🌱 Actualmente...
+## 📚 Actualmente Aprendiendo
 
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <strong>🔭 Trabajando en</strong><br>
-      <em>Un proyecto revolucionario con IA</em>
-    </td>
-    <td width="33%" align="center">
-      <strong>🌱 Aprendiendo</strong><br>
-      <em>Machine Learning & DevOps</em>
-    </td>
-    <td width="33%" align="center">
-      <strong>👯 Colaborando en</strong><br>
-      <em>Proyectos open-source</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <strong>🤔 Buscando ayuda</strong><br>
-      <em>Con arquitecturas microservicios</em>
-    </td>
-    <td width="33%" align="center">
-      <strong>💬 Pregúntame sobre</strong><br>
-      <em>Frontend, UX y startups</em>
-    </td>
-    <td width="33%" align="center">
-      <strong>⚡ Dato curioso</strong><br>
-      <em>Puedo resolver un cubo Rubik</em>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📫 Conéctate Conmigo
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andre121314115)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tu-usuario)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tu-invitacion)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ "El código es poesía, y cada commit es un verso"
-
-⭐ **¿Te gusta lo que ves?** ¡No dudes en darle una estrella a mis repositorios!
-
-![Visitas](https://komarev.com/ghpvc/?username=Andre121314115&color=blueviolet&style=flat-square)
-
-**¡Gracias por visitar mi perfil!** 🚀
-
-</div>
+```text
+🔹 Desarrollo Full-Stack avanzado
+🔹 Computación en la nube y prácticas DevOps
+🔹 Fundamentos de Machine Learning
+🔹 Patrones de arquitectura de software
