@@ -1,122 +1,312 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Andre%20De%20La%20Torre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Systems%20Engineering%20Student%20%7C%20Peru%20🇵🇪&descAlignY=75&descSize=16" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=280&section=header&text=Jhonny%20Andre&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=De%20La%20Torre%20Segura&descSize=28&descAlignY=58&descFontColor=a0a0b0" width="100%"/>
+</div>
 
-<br/>
+<br>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Andre121314115&label=Visitas+al+perfil&color=302b63&style=flat" />
-</p>
+<div align="center">
+  <a href="mailto:delatorreandre03@gmail.com"><img src="https://img.shields.io/badge/Gmail-delatorreandre03-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Perú-Mito%2C%20Junín-29ABE2?style=flat-square&logo=googlemaps&logoColor=white"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Andre121314115&style=flat-square&color=6e40c9&label=visitas"/>
+</div>
 
-## Hola 👋 soy Andre
+<br>
 
-Estudiante de décimo ciclo en **Ingeniería de Sistemas e Informática** en la Universidad Continental. Me gusta construir cosas que funcionen bien — desde apps móviles hasta sistemas de análisis de datos.
+---
 
-Actualmente terminando mi carrera y con experiencia real en telecomunicaciones gracias a mis prácticas en **COTAS**. Busco proyectos donde aprender, aportar y crecer.
+### `$ whoami`
 
-```python
-andre = {
-    "ubicacion":   "Mito, Junín — Perú 🏔️",
-    "estudios":    "Ing. Sistemas e Informática · Univ. Continental",
-    "ciclo":       "10mo (casi listo 🎓)",
-    "intereses":   ["desarrollo de software", "data analytics", "mobile apps"],
-    "idiomas":     ["Español 🇵🇪 nativo", "Inglés 🇺🇸 intermedio"],
-    "actualmente": "abierto a prácticas y colaboraciones",
-}
+```
+Estudiante de 10mo ciclo · Universidad Continental · Huancayo, Perú
+Desarrollo software · Analítica de datos · Apps móviles
+
+Terminando la carrera, con prácticas reales en telecomunicaciones.
+Aprendo rápido, trabajo en equipo y me gusta que las cosas funcionen bien.
 ```
 
----
+> *"No necesito tener todo claro para empezar — aprendo construyendo."*
 
-## 🔧 Con lo que trabajo
-
-Estas son las tecnologías que uso más seguido. No todas las domino al 100%, pero sigo aprendiendo.
-
-**Lenguajes**
-
-![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/-C++-1e1e2e?style=flat-square&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/-PHP-1e1e2e?style=flat-square&logo=php&logoColor=777BB4)
-![Kotlin](https://img.shields.io/badge/-Kotlin-1e1e2e?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![Dart](https://img.shields.io/badge/-Dart-1e1e2e?style=flat-square&logo=dart&logoColor=0175C2)
-
-**Web & Apps**
-
-![HTML](https://img.shields.io/badge/-HTML5-1e1e2e?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-1e1e2e?style=flat-square&logo=css3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-1e1e2e?style=flat-square&logo=flutter&logoColor=54C5F8)
-![Android](https://img.shields.io/badge/-Android-1e1e2e?style=flat-square&logo=android&logoColor=3DDC84)
-
-**Datos & Otros**
-
-![SQL](https://img.shields.io/badge/-SQL-1e1e2e?style=flat-square&logo=mysql&logoColor=4479A1)
-![Power BI](https://img.shields.io/badge/-Power_BI-1e1e2e?style=flat-square&logo=powerbi&logoColor=F2C811)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-1e1e2e?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Git](https://img.shields.io/badge/-Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
+<br>
 
 ---
 
-## 💼 Experiencia
+<h2 align="center">⚙️ &nbsp; Stack que uso</h2>
 
-**COTAS — Practicante de Sistemas** *(Abr – Ago 2025)*
+<br>
 
-Empresa de telecomunicaciones donde hice mis prácticas preprofesionales. Trabajé con redes, documentación técnica y el sistema IPTV interno de la empresa.
+<div align="center">
 
-- Configuración y mantenimiento de routers y equipos de red
-- Monitoreo del estado de conexiones y detección de fallas
-- Soporte en documentación técnica e incidencias
-- Gestión de canales en el servicio IPTV
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  <br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+  <br><sub><b>PHP</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+  <br><sub><b>Kotlin</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+  <br><sub><b>Dart</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+  <br><sub><b>Flutter</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+  <br><sub><b>CSS3</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+  <br><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+  <br><sub><b>VSCode</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"/>
+  <br><sub><b>Android Studio</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/>
+  <br><sub><b>ML / sklearn</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" width="48"/><br>
+  <sub><b>Power BI</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  <br><sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ---
 
-## 🛠️ Proyectos que he construido
+<h2 align="center">💼 &nbsp; Experiencia laboral</h2>
 
-### 🛡️ DesInfo — Detector de noticias falsas
-> Proyecto de ML para clasificar contenido y detectar desinformación. Incluye análisis de texto y sistema de verificación de fuentes. Fue evolucionando hasta llegar a la v4.0.
+<br>
 
-`Python` `JavaScript` `Machine Learning` `HTML/CSS`
-&nbsp;→ [ver repo](https://github.com/Andre121314115/DesinfoAppV4.0)
+<div align="center">
 
----
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   🏢  COTAS — Empresa de Telecomunicaciones                             │
+│   📌  Practicante de Sistemas  ·  Abril 2025 – Agosto 2025              │
+│                                                                         │
+│   ▸ Configuración y mantenimiento de routers y equipos de red           │
+│   ▸ Monitoreo de redes y detección de caídas de conexión                │
+│   ▸ Documentación técnica y registro de incidencias                     │
+│   ▸ Gestión de canales y películas en el servicio IPTV interno          │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-### 🎈 Arcos & Globos — App de decoración de eventos
-> App móvil hecha en Flutter para gestionar cotizaciones y pedidos de una empresa de decoración. Catálogo visual, cálculo de precios y reservas.
+</div>
 
-`Flutter` `Dart`
-&nbsp;→ [ver repo](https://github.com/Andre121314115/arcos_globos)
-
----
-
-### 👟 ZapaStore — Panel admin web
-> Panel administrativo para una tienda de zapatillas. Gestión de productos, inventario y ventas con interfaz limpia en HTML/CSS/JS.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🍦 HeladeriaApp — Gestión para heladerías
-> Aplicación Android para controlar stock, ventas y clientes de una heladería. Control de inventario y reportes básicos.
-
-`Kotlin` `Android`
-&nbsp;→ [ver repo](https://github.com/Andre121314115/HeladeriaApp)
+<br>
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">🚀 &nbsp; Proyectos</h2>
+
+<br>
+
+<!-- ═══════════════ PROYECTO 1 ═══════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=80%25" width="80%"/>
+</div>
+
+<br>
+
+### &nbsp;&nbsp;&nbsp;🛡️ &nbsp; DesInfo — Detector de Noticias Falsas
+
+<div align="center">
+
+| | |
+|---|---|
+| **¿Qué es?** | Sistema para identificar y clasificar noticias falsas usando Machine Learning. Analiza texto, detecta patrones de desinformación y verifica fuentes. Fue creciendo desde la v1.0 hasta una v4.0 con nuevas funcionalidades. |
+| **¿Por qué?** | Porque la desinformación es un problema real y quería aplicar ML a algo con impacto. |
+| **Stack** | `Python` &nbsp; `JavaScript` &nbsp; `HTML/CSS` &nbsp; `scikit-learn` |
+| **Estado** | ✅ v4.0 estable |
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andre121314115&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre121314115&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="38%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andre121314115&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:delatorreandre03@gmail.com">
-    <img src="https://img.shields.io/badge/Escribeme-delatorreandre03@gmail.com-302b63?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/Andre121314115/DesinfoAppV4.0">
+    <img src="https://img.shields.io/badge/Abrir%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
+<br>
+
+<!-- ═══════════════ PROYECTO 2 ═══════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=3&width=80%25" width="80%"/>
+</div>
+
+<br>
+
+### &nbsp;&nbsp;&nbsp;🎈 &nbsp; Arcos & Globos — App de Decoración de Eventos
+
+<div align="center">
+
+| | |
+|---|---|
+| **¿Qué es?** | Aplicación móvil para gestionar cotizaciones y pedidos de servicios de decoración. Los clientes pueden ver el catálogo, calcular precios por tipo de arreglo y hacer reservas directamente desde el celular. |
+| **¿Por qué?** | Proyecto real para un emprendimiento local — de esos que se usan de verdad. |
+| **Stack** | `Flutter` &nbsp; `Dart` |
+| **Estado** | ✅ Funcional |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Andre121314115/arcos_globos">
+    <img src="https://img.shields.io/badge/Abrir%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════════ PROYECTO 3 ═══════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=80%25" width="80%"/>
+</div>
+
+<br>
+
+### &nbsp;&nbsp;&nbsp;👟 &nbsp; ZapaStore — Panel Administrativo Web
+
+<div align="center">
+
+| | |
+|---|---|
+| **¿Qué es?** | Panel de administración web para una tienda de zapatillas. Gestión de inventario, catálogo de productos, control de ventas e interfaz limpia sin frameworks, puro HTML/CSS/JS. |
+| **¿Por qué?** | Para practicar frontend puro sin depender de librerías externas. |
+| **Stack** | `HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` |
+| **Estado** | ✅ Completado |
+
+</div>
+
+<br>
+
+<!-- ═══════════════ PROYECTO 4 ═══════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&width=80%25" width="80%"/>
+</div>
+
+<br>
+
+### &nbsp;&nbsp;&nbsp;🍦 &nbsp; HeladeriaApp — Sistema para Heladerías
+
+<div align="center">
+
+| | |
+|---|---|
+| **¿Qué es?** | App Android para administrar una heladería: control de inventario, registro de ventas, gestión de clientes y reportes por período. |
+| **¿Por qué?** | Primer proyecto serio en Kotlin — el clásico app de gestión para aprender Android nativo. |
+| **Stack** | `Kotlin` &nbsp; `Android` &nbsp; `Android Studio` |
+| **Estado** | ✅ Completado |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Andre121314115/HeladeriaApp">
+    <img src="https://img.shields.io/badge/Abrir%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+---
+
+<h2 align="center">📊 &nbsp; GitHub Stats</h2>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre121314115&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=es" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre121314115&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&locale=es" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Andre121314115&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andre121314115&theme=tokyo-night&hide_border=true&area=true&point=ffffff" width="95%"/>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ¿Tienes algo en mente? Hablemos.
+
+<br>
+
+<a href="mailto:delatorreandre03@gmail.com">
+  <img src="https://img.shields.io/badge/✉️  Escríbeme%20por%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Abierto a prácticas, colaboraciones y proyectos interesantes · Perú 🇵🇪</sub>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%"/>
